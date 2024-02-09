@@ -1,1 +1,1 @@
-# Visualization_lib
+# Visualization library
