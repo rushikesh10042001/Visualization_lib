@@ -1,0 +1,29 @@
+{
+  "name": "visualization-lib",
+  "version": "1.0.0",
+  "description": "A library to colorify your console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare":"npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushikesh10042001/Visualization_lib.git"
+  },
+  "keywords": [
+    "colors colorify",
+    "console log colors"
+  ],
+  "author": "rushikesh <rushikesh.wyawahare@fractal.ai>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rushikesh10042001/Visualization_lib/issues"
+  },
+  "homepage": "https://github.com/rushikesh10042001/Visualization_lib#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "files":["lib/**/*"]
+}
